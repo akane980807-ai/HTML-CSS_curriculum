@@ -1,0 +1,46 @@
+.l-wrapper {
+  padding: 64px 0;
+}
+
+.l-header {
+  margin-bottom: 40px;
+}
+
+.c-heading {
+  text-align: center;
+  font-size: 24px;
+}
+
+.c-pickup {
+
+}
+
+.c-pickup__title {
+  font-size: 16px;
+  color :#ffffff;
+  display:inline-block;
+  background-color: #8c97ff;
+  padding: 0 8px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.c-pickup__item {
+  display: block;
+  margin: center;
+  box-sizing: border-box;
+  padding: 28px 28px;
+  border: 1px solid #000000;
+  border-radius: 20px;
+}
+
+.p-block {
+  display:inline-block;
+  background-color: #eee;
+}
+
+.tag {
+  color :#8c97ff
+}
+
+
