@@ -11,8 +11,9 @@
   font-size: 24px;
 }
 
-.c-pickup {
-
+.p-pickup {
+  margin: 0 auto;
+  width: fit-content;
 }
 
 .c-pickup__title {
@@ -27,19 +28,55 @@
 
 .c-pickup__item {
   display: block;
-  margin: center;
   box-sizing: border-box;
   padding: 28px 28px;
   border: 1px solid #000000;
   border-radius: 20px;
+  width: 680px;
+  box-shadow: 12px 12px #CCCCFF;
 }
 
-.p-block {
+.c-imageinner {
+  margin: 0 auto;
+  width: fit-content;
+  margin-bottom: 8px;
+}
+
+.c-itemHeader {
+  margin-bottom: 12px;
+}
+.c-itemName {
+  font-size: 18px;
+  display: inline;
+  margin-bottom: 12px;
+}
+
+.c-itemView {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.p-blockInner {
+  margin-bottom: 24px;
+}
+.c-block {
   display:inline-block;
+  font-size: 12px;
   background-color: #eee;
 }
 
-.tag {
+.c-price {
+  font-size: 16px;
+}
+
+.c-smallText {
+  font-size: 12px;
+}
+
+.c-tag {
+  display: block;
+  width: fit-content;
+  font-size: 14px;
   color :#8c97ff
 }
 
